@@ -6,9 +6,9 @@ function Item(props) {
     <div>
       <section className='card'>
         <div className='centrado'>
-          <p>{props.product}</p>
+          <p className='titulo'>{props.product}</p>
           <p>{props.image}</p>
-          <p>{props.price}</p>
+          <p>${props.price}</p>
           
           <ItemCount/>
           <button className='button'>Agregar al carrito</button>
