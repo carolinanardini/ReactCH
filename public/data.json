@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Barra de cereal con chocolate",
+        "stock": 10,
+        "precio":150,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id": 1,
+        "img": ""
+    },
+    {
+        "nombre": "Barra de cereal de frutos rojos",
+        "stock": 10,
+        "precio":150,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id":2,
+        "img": ""
+    },
+    {
+        "nombre": "Barra de cereal de maní",
+        "stock": 1,
+        "precio":150,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id": 3,
+        "img": ""
+    },
+    {
+        "nombre": "Caja de barras de cereal con chocolate",
+        "stock": 10,
+        "precio":1500,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id": 4,
+        "img": ""
+    },
+    {
+        "nombre": "Caja de barras de cereal con frutos rojos",
+        "stock": 10,
+        "precio":1500,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id": 5,
+        "img": ""
+    },
+    {
+        "nombre": "Caja de barras de cereal con maní",
+        "stock": 10,
+        "precio":1500,
+        "descuento": 0.8,
+        "categoría": "Barras de cereales",
+        "id": 6,
+        "img": ""
+    },
+    {
+        "nombre": "Granola clásica",
+        "stock": 10,
+        "precio":400,
+        "descuento": 0.8,
+        "categoría": "Granola",
+        "id": 7,
+        "img": ""
+    },
+    {
+        "nombre": "Granola con chocolate",
+        "stock": 10,
+        "precio":400,
+        "descuento": 0.8,
+        "categoría": "Granola",
+        "id": 8,
+        "img": ""
+    }
+]
