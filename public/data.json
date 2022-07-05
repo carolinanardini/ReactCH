@@ -7,7 +7,10 @@
         "categoría": "Barras de cereales",
         "id": 1,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Barra de cereal de frutos rojos",
@@ -17,7 +20,10 @@
         "categoría": "Barras de cereales",
         "id":2,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Barra de cereal de maní",
@@ -27,7 +33,10 @@
         "categoría": "Barras de cereales",
         "id": 3,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Caja de barras de cereal con chocolate",
@@ -37,7 +46,10 @@
         "categoría": "Barras de cereales",
         "id": 4,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Caja de barras de cereal con frutos rojos",
@@ -47,7 +59,10 @@
         "categoría": "Barras de cereales",
         "id": 5,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Caja de barras de cereal con maní",
@@ -57,7 +72,10 @@
         "categoría": "Barras de cereales",
         "id": 6,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Granola clásica",
@@ -67,7 +85,10 @@
         "categoría": "Granola",
         "id": 7,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     },
     {
         "nombre": "Granola con chocolate",
@@ -77,6 +98,9 @@
         "categoría": "Granola",
         "id": 8,
         "img": "",
-        "descripcion": "Ingredientes: Arroz, avena, chocolate, miel"
+        "descripcion1": " La más práctica de disfrutar los cereales. ",
+        "descripcion2": " Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas. ",
+        "descripcion3": " Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.",
+        "descripcion4": "Con tan solo 99 calorías por unidad y todo el sabor de lo natural. "
     }
 ]

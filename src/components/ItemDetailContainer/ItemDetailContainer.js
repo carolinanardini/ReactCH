@@ -13,7 +13,7 @@ function ItemDetailContainer() {
 
         fetch('data.json') //Trae el responde completo
         .then((resp)=>resp.json()) //Extrae la informacion a utilizar
-        .then((data)=>setDetail(data.filter(i=>i.id===1))) //Setea esa info en nuestro state      
+        .then((data)=>setDetail(data.find(i=>i.id===1))) //Setea esa info en nuestro state      
 
   
     }, 2000);

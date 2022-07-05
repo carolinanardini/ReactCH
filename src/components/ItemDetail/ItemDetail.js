@@ -9,24 +9,24 @@ function ItemDetail(props) {
     <div className='flex'>
         <section className='recuadro'>
             
-        <p className='imagen'>Imagen</p>
+        <p className='imagen'>{props.detail.img}</p>
            
         </section>
        
 
 
         <section className='derecha'>
-            <p className='bold large'>Nombre del producto</p>
-            <p className='italic'> La más práctica de disfrutar los cereales.</p>
-            <p className='italic'>Contiene fibras, ingredientes de origen natural y una riquísima y una exclusiva combinación de diferentes cereales y frutas.</p>
-            <p className='italic'>Se combinan cereales cuidadosamente seleccionados, combinados con miel, cacao, maní y canela.</p>
-            <p className='italic'>Con tan solo 99 calorías por unidad y todo el sabor de lo natural.</p>
-
+            <p className='bold large'>{props.detail.nombre}</p>
+            
+            <p className='italic'> {props.detail.descripcion1}</p>
+            <p className='italic'> {props.detail.descripcion2}</p>
+            <p className='italic'> {props.detail.descripcion3}</p>
+            <p className='italic'> {props.detail.descripcion4}</p>
             <ItemCount/>
             <button className='button'>Agregar al carrito</button>
         </section>
 
-        {props.detail.nombre}
+        
 
     </div>
   );
