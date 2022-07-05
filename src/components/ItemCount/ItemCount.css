@@ -1,5 +1,7 @@
 .counter{
     display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .numero{
