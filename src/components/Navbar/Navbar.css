@@ -10,6 +10,27 @@
     color: palevioletred;
 }
 
+.header a.active,
+.header a:active{
+    border-bottom: 3px solid rgb(248, 175, 187);
+    padding-bottom: 3px;
+}
+
 .logo{
     height: 50px;
 }
+
+li{
+    list-style: none;
+    color: black;
+    display: flex;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
