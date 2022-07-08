@@ -32,5 +32,33 @@ a{
     color: black;
 }
 
+.categorias{
+    display: none;
+    position: absolute;
+}
 
+.categorias li{
+    display:flex;
+    text-justify: left;
+    padding: 10px;
+    z-index: 1;
+    background-color: rgb(250, 210, 217);
+}
 
+.header li:hover ul{
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+
+}
+
+.columna{
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    
+}
+
+.columna:hover{
+    background-color: rgb(250, 210, 217);
+}
